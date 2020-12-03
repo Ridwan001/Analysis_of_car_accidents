@@ -1,4 +1,5 @@
-# Analysis_of_car_accidents
+# Analysis_of_car_accidents.
+
 Analysis of car accidents in Barcelona using Pandas, Matplotlib, and Folium.
 
 Open Data Barcelona is Barcelona´s data service which contains around 400 datasets, covering a wide rage of topics such as population, business, or housing. This project was born in 2010 with the main objective of maximize available public resources, allowing companies, citizens, researcher, and other public institutions to make use of the data generated.
